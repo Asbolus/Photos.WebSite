@@ -9,6 +9,10 @@
 編譯環境: ASP.Net Core 3.1<br>
 IDE: Visual Studio 2019<br>
 
+使用:
+------
+以Visual Studio 2019 版本16.4.0以上直接編譯即可。<br>
+
 介紹:
 ------
 (1) 為省去連接資料庫的麻煩，所有資料都在wwwroot/data/products.json裡面<br>
