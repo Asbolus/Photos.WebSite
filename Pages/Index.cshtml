@@ -1,0 +1,15 @@
+﻿@page
+@using Photos.WebSite.Components
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Photos</h1>
+    <p>More info at my <a href="https://github.com/Asbolus">GitHub</a>.</p>
+</div>
+
+@(await Html.RenderComponentAsync<ProductList>(RenderMode.ServerPrerendered))
+
+<script src="_framework/blazor.server.js"></script>
