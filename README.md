@@ -1,5 +1,5 @@
 # Photos.WebSite
-以ASP.Net Core 3.1寫成的簡易網站，將圖片以格子狀表示，點下"More Info"按鈕可看到更多資訊、以及按下星星符號投票，當前顯示的星星是所有投票者的平均分數。
+以ASP.Net Core 3.1寫成的簡易網站，版面部分是Bootstrap。將圖片以格子狀表示，點下"More Info"按鈕可看到更多資訊、以及按下星星符號投票，當前顯示的星星是所有投票者的平均分數。
 
 [YouTube video link](https://www.youtube.com/watch?v=0X5QwG2Qa9E&feature=youtu.be)<br>
 [![](http://img.youtube.com/vi/0X5QwG2Qa9E/0.jpg)](http://www.youtube.com/watch?v=0X5QwG2Qa9E "")
@@ -11,7 +11,7 @@ IDE: Visual Studio 2019<br>
 
 使用:
 ------
-以Visual Studio 2019 版本16.4.0以上直接編譯即可。<br>
+以 Visual Studio 2019 版本 16.4.0 以上直接編譯即可。<br>
 
 介紹:
 ------
