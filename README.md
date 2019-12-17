@@ -4,10 +4,10 @@
 [YouTube video link](https://www.youtube.com/watch?v=0X5QwG2Qa9E&feature=youtu.be)<br>
 [![](http://img.youtube.com/vi/0X5QwG2Qa9E/0.jpg)](http://www.youtube.com/watch?v=0X5QwG2Qa9E "")
 
-
-作業系統: Windows 10
-編譯環境: ASP.Net Core 3.1
-IDE: Visual Studio 2019
+<br>
+作業系統: Windows 10<br>
+編譯環境: ASP.Net Core 3.1<br>
+IDE: Visual Studio 2019<br>
 
 介紹:
 ------
