@@ -12,7 +12,7 @@ IDE: Visual Studio 2019<br>
 介紹:
 ------
 (1) 為省去連接資料庫的麻煩，所有資料都在wwwroot/data/products.json裡面<br>
-(2) 圖片位置為免費上傳空間，若圖片掛掉請告知。（或者可觀看Youtube）<br>
+(2) 圖片位置為免費上傳空間，若圖片掛掉請告知。（或者可觀看YouTube）<br>
 (3) 主要顯示頁面是Razor page，位於Components/ProductList.razor。<br>
 可參考 [ASP.NET Core 中的 Razor Pages 簡介](https://docs.microsoft.com/zh-tw/aspnet/core/razor-pages/?view=aspnetcore-3.1&tabs=visual-studio)<br>
 
